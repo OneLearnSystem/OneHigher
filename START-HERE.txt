@@ -1,0 +1,30 @@
+ONEHIGHER WEBSITE
+
+Upload ALL files from this ZIP to the root of a OneHigher GitHub repository.
+Enable GitHub Pages from the main branch, / (root). The homepage is index.html.
+No folders, build step, packages or SQL are required.
+
+Includes: homepage, four service pages, story, updates, introductory article,
+portal chooser, contact page, privacy information, responsive CSS and favicon.
+
+Edit config.js:
+- contactEmail: your existing supplied address is included.
+- oneLearnUrl: currently ../OneLearn/; change if your OneLearn address differs.
+- portals: add confirmed live HTTPS addresses when each service is ready.
+  Blank entries show Access by arrangement instead of broken portal links.
+
+Contact prepares an email draft; visitors review and send it themselves.
+There is NO automatic email sending, database submission or new admin panel.
+The page clearly says so and offers a copy option if no email app is set up.
+
+This is the OneHigher PUBLIC WEBSITE, not the college/university management apps.
+It does not change those services, OneLearn, Supabase, roles or school data.
+OneApply and OnePath are labelled in development. Availability for other services
+is confirmed directly, not claimed as a public launch.
+
+The supplied ONE College artwork is embedded unchanged in a self-contained SVG
+viewport. Other artwork and icons are native SVG. Files contain no external fonts
+or tracking scripts. The included privacy text describes this configuration;
+review it if you add analytics, database forms or other integrations.
+
+Nothing has been deployed automatically. Upload only when ready to publish.
